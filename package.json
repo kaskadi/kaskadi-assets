@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/kaskadi/kaskadi-assets/issues"
   },
-  "homepage": "https://github.com/kaskadi/kaskadi-assets#readme"
+  "homepage": "https://github.com/kaskadi/kaskadi-assets#readme",
+  "kaskadi": {
+    "s3-push": {
+      "files": [
+        {
+          "src": "imgs/",
+          "dest": "imgs/{branch}"
+        }
+      ]
+    }
+  }
 }
