@@ -5,7 +5,7 @@ on:
       - 'master'
       - 'release/**'
     paths:
-      - 'easy-use/**'
+      - 'imgs/**'
       - 'package.json'
 jobs:
   publish:
