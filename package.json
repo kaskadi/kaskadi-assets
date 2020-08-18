@@ -1,7 +1,7 @@
 {
   "name": "kaskadi-assets",
   "version": "1.0.0",
-  "description": "This repository contains all the static assets related to the Kaskadi project.",
+  "description": "This repository contains all the static assets related to the Kaskadi project",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
